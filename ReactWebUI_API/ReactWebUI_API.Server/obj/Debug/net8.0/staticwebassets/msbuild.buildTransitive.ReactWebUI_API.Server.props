@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ReactWebUI_API.Server.props" />
-</Project>
